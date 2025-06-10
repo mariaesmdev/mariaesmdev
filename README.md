@@ -1,13 +1,11 @@
 <h1 align="center">Olá pessoal👋, Sou Maria Eduarda</h1>
 <h3 align="center">Estudante de Sistemas de Informação completamente apaixonada por programação.</h3>
 
-Me chamo Maria Eduarda Machado, sou estudante de Sistemas de Informação pela Universidade LaSalle. Sou apaixonada por tecnologia e por tudo que ela pode proporcionar para transformar o mundo ao nosso redor. Tenho interesse por diversas áreas dentro da tecnologia e estou constantemente em busca de aprimorar tanto minhas habilidades técnicas quanto comportamentais.
+Me chamo Maria Eduarda Machado e sou estudante de Sistemas de Informação na Universidade LaSalle. Tenho paixão por tecnologia e interesse em diversas áreas do setor, buscando sempre aprimorar minhas habilidades técnicas e comportamentais.
 
-Além da formação acadêmica, também desenvolvo projetos por conta própria e estudo de forma autodidata, explorando ferramentas, linguagens e conceitos que vão além do que é ensinado em sala de aula. Acredito que esse hábito de aprender por iniciativa própria é essencial para me manter atualizada e preparada para os desafios do mercado.
-Sou movida pela curiosidade e pelo desejo de aprender continuamente. Acredito que o conhecimento se constrói na prática, por isso, me dedico a participar de projetos acadêmicos e atividades extracurriculares que me permitam crescer profissionalmente e colaborar com outras pessoas.
+Além da formação acadêmica, desenvolvo projetos por conta própria e estudo continuamente para ampliar meus conhecimentos e estar preparada para os desafios do mercado. Participo de projetos acadêmicos e atividades extracurriculares para crescer profissionalmente e colaborar com outras pessoas.
 
-Neste perfil do GitHub, compartilho minha trajetória como desenvolvedora: meus estudos, projetos (acadêmicos e pessoais), aprendizados e desafios. Busco utilizar esse espaço como uma vitrine do meu progresso, onde posso reunir minhas criações, experimentar novas ideias e manter um registro da minha evolução.
-Estou sempre aberta a novas oportunidades, trocas de conhecimento e conexões que me ajudem a expandir meu olhar sobre o universo da tecnologia.
+Neste perfil do GitHub, compartilho meus estudos, projetos e aprendizados, usando este espaço como registro e vitrine do meu desenvolvimento como desenvolvedora. Estou aberta a novas oportunidades, trocas de conhecimento e conexões na área de tecnologia.
 
 
 <h3 align="left">Tecnologias: </h3>
