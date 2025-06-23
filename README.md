@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=800080&center=true&vCenter=true&random=false&width=524&lines=Bem-vindo+(a)+ao+meu+perfil!" alt="Typing SVG">
   </a>
@@ -13,7 +13,7 @@ Me chamo Maria Eduarda Machado e sou estudante de Sistemas de Informação na Un
 
 ## 🌐 Conecte-se Comigo!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23800080.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/maria-eduarda-machado-931aba23b/) [![email](https://img.shields.io/badge/Email-%23800080.svg?logo=gmail&logoColor=white)](mailto:mariaedsouza.machado@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23800080.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-machado-931aba23b/)&nbsp;[![email](https://img.shields.io/badge/Email-%23800080.svg?logo=gmail&logoColor=white)](mailto:mariaedsouza.machado@gmail.com)
 
 ---
 
