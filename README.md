@@ -1,4 +1,12 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=800080&center=true&vCenter=true&random=false&width=524&lines=Bem-vindo+(a)+ao+meu+perfil!" alt="Typing SVG">
+  </a>
+</div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Seu GIF Animado" width="300px">
+</div>
 Me chamo Maria Eduarda Machado e sou estudante de Sistemas de Informação na Universidade LaSalle. Tenho paixão por tecnologia e interesse em diversas áreas do setor, buscando sempre aprimorar minhas habilidades técnicas e comportamentais.<br><br>Além da formação acadêmica, desenvolvo projetos por conta própria e estudo continuamente para ampliar meus conhecimentos e estar preparada para os desafios do mercado. Participo de projetos acadêmicos e atividades extracurriculares para crescer profissionalmente e colaborar com outras pessoas.<br><br>Neste perfil do GitHub, compartilho meus estudos, projetos e aprendizados, usando este espaço como registro e vitrine do meu desenvolvimento como desenvolvedora. Estou aberta a novas oportunidades, trocas de conhecimento e conexões na área de tecnologia.
 
 ---
