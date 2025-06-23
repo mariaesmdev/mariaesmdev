@@ -11,14 +11,7 @@ Me chamo Maria Eduarda Machado e sou estudante de Sistemas de Informação na Un
 
 ---
 
-## 🌐 Conecte-se Comigo!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23800080.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-machado-931aba23b/)&nbsp;[![email](https://img.shields.io/badge/Email-%23800080.svg?logo=gmail&logoColor=white)](mailto:mariaedsouza.machado@gmail.com)
-
----
-
 ## 💻 Minhas Ferramentas e Tecnologias
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Duda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,8 +22,14 @@ Me chamo Maria Eduarda Machado e sou estudante de Sistemas de Informação na Un
   <img align="center" alt="Duda-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
+---
+
+## 🌐 Conecte-se Comigo!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23800080.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-machado-931aba23b/)&nbsp;[![email](https://img.shields.io/badge/Email-%23800080.svg?logo=gmail&logoColor=white)](mailto:mariaedsouza.machado@gmail.com)
 
 ---
+
 
 ## 📊 Minhas Estatísticas do GitHub
 
