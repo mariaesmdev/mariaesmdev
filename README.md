@@ -7,7 +7,10 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="Seu GIF Animado" width="300px">
 </div>
-Me chamo Maria Eduarda Machado e sou estudante de Sistemas de Informação na Universidade LaSalle. Tenho paixão por tecnologia e interesse em diversas áreas do setor, buscando sempre aprimorar minhas habilidades técnicas e comportamentais.<br><br>Além da formação acadêmica, desenvolvo projetos por conta própria e estudo continuamente para ampliar meus conhecimentos e estar preparada para os desafios do mercado. Participo de projetos acadêmicos e atividades extracurriculares para crescer profissionalmente e colaborar com outras pessoas.<br><br>Neste perfil do GitHub, compartilho meus estudos, projetos e aprendizados, usando este espaço como registro e vitrine do meu desenvolvimento como desenvolvedora. Estou aberta a novas oportunidades, trocas de conhecimento e conexões na área de tecnologia.
+Me chamo Maria Eduarda Machado e sou estudante de Sistemas de Informação na Universidade LaSalle. Tenho paixão por tecnologia e interesse em diversas áreas do setor, buscando sempre aprimorar minhas habilidades técnicas e comportamentais. <br> <br>
+
+Atualmente, sou estagiária de red team em segurança da informação na Icatu Seguros. Essa experiência tem me permitido aplicar meus conhecimentos na prática e aprofundar meus estudos em áreas como pentest e segurança defensiva, complementando minha formação acadêmica e projetos pessoais.<br> <br>
+Além da minha formação e estágio, desenvolvo projetos por conta própria e estudo continuamente. Este perfil do GitHub é um registro do meu desenvolvimento como desenvolvedora, onde compartilho meus aprendizados. Estou aberta a trocas de conhecimento e conexões na área de tecnologia.
 
 ---
 
