@@ -9,7 +9,7 @@
 </div>
 Me chamo Maria Eduarda Machado e sou estudante de Sistemas de Informação na Universidade LaSalle. Tenho paixão por tecnologia e interesse em diversas áreas do setor, buscando sempre aprimorar minhas habilidades técnicas e comportamentais. <br> <br>
 
-Atualmente, sou Estagiária de Red Team em Segurança da Informação na Icatu Seguros. Esta experiência prática tem sido fundamental para atuar na simulação de ataques e aprofundar meus conhecimentos em segurança ofensiva.
+Atualmente, sou Estagiária do Red Team em Segurança da Informação na Icatu Seguros. Esta experiência prática tem sido fundamental para atuar na simulação de ataques e aprofundar meus conhecimentos em segurança ofensiva.
 Além da minha formação e estágio, dedico-me ao desenvolvimento de projetos paralelos e laboratórios de segurança. Meu perfil do GitHub serve como um logbook ativo e um repositório dos meus estudos e evolução técnica, onde registro e compartilho ativamente meus scripts e labs de pentest.
 <br> <br>
 Estou sempre aberta à troca de conhecimento e a conexões com profissionais que compartilham o interesse por quebrar (e, assim, fortalecer) a segurança de sistemas.
